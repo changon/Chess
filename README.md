@@ -13,4 +13,4 @@ When running, the java classpaths must be edited to its current directory, along
 
 #Meta
 This is the initial version. The following versions updated with GA training options are defunct. Attempt #1 ANN.
-'crap code. java v.'
+'crap code high school. java v.'
