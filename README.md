@@ -11,5 +11,6 @@ Java: -JBLAS Linear Algebra Library
 When running, the java classpaths must be edited to its current directory, along with the jar of the dependency(ies).
 
 #Meta
-This is the initial version. The following versions updated with GA training options are defunct and not uploaded yet. Attempt #1 ANN.
-'crap code high school. java v.'
+This is the initial version. The following versions updated with GA training options are defunct and not uploaded yet. 
+
+Attempt #1 ANN February 2016.
